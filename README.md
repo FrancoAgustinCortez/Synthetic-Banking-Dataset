@@ -1,4 +1,4 @@
-# 📊 Análisis Bancario Ejecutivo (Synthetic Banking Relational Analytics)
+# 📊 Análisis Bancario Ejecutivo (Synthetic Banking Dataset Analytics)
 
 ---
 
@@ -9,7 +9,7 @@ Diseñar e implementar un proyecto analítico completo de extremo a extremo util
 ---
 
 ## 🖼 Visualización del Dashboard
-![Dashboard Screenshot](./Synthetic_Banking_Dataset_Screenshot.png)
+![Dashboard Screenshot](./Synthetic%20Banking%20Dataset%20Screenshot.png)
 
 ---
 
